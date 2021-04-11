@@ -80,7 +80,7 @@ let resumeData = {
       {
         "name":"PokeDexAPI",
         "description":"An app for Pokemon fans that enables users to explore the entire library of the Pokemon universe and see their stats and alternate versions.",
-        "imgurl":"images/portfolio/Pokedex.gif"
+        "imgurl":"images/portfolio/Pokedex.gif",
         "siteurl": "sunnuke.github.io/pokedexapi/"
       }
     ],

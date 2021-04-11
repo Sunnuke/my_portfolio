@@ -75,13 +75,13 @@ let resumeData = {
         "name":"Xplanet",
         "description":"A Synthwave Styled social platform concept for gamers, enabling users to access curated gaming news and media, interact with other gamers, create and personalized private profile pages",
         "imgurl":"images/portfolio/Xplanet.gif",
-        "site": "http://sunnuke.pythonanywhere.com/xplanet/"
+        "site": "https://sunnuke.pythonanywhere.com/xplanet/"
       },
       {
         "name":"PokeDexAPI",
         "description":"An app for Pokemon fans that enables users to explore the entire library of the Pokemon universe and see their stats and alternate versions.",
         "imgurl":"images/portfolio/Pokedex.gif",
-        "site": "http://sunnuke.github.io/pokedexapi/"
+        "site": "https://sunnuke.github.io/PokeDexAPI/"
       }
     ],
     "testimonials":[
